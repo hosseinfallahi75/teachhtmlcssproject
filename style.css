@@ -1,0 +1,8 @@
+*{
+    font-family: 'iransans';
+    font-size: 20px;
+}
+@font-face {
+    font-family: iransans;
+    src: url('./IranNastaliq.ttf');
+}
